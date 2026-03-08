@@ -35,12 +35,6 @@ Includes statistical modeling, feature engineering, and simulation of trading si
 
 ### Connect
 
-<p align="left">
-<a href="https://www.topcoder.com/members/60457" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" height="30" width="40"/>
-</a>
-</p>
-
 Email: [matts4@illinois.edu](mailto:matts4@illinois.edu)
 
 ---

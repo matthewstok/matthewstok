@@ -1,9 +1,9 @@
 <h1 align="center">Matthew Stoklosinski</h1>
-<h3 align="center">C++ Developer | Quantitative Finance Enthusiast | Systems & Algorithms</h3>
+<h3 align="center">Software Engineer | C++ Developer | Systems & Algorithms</h3>
 
 <p align="center">
-Computer Science student focused on systems programming, algorithms, and performance-oriented software.  
-Interested in building low-latency infrastructure and quantitative models used in modern trading systems.
+Computer Science student focused on systems programming, algorithms, and building efficient software.  
+Interested in performance-oriented systems, simulation, and quantitative modeling.
 </p>
 
 ---
@@ -11,8 +11,8 @@ Interested in building low-latency infrastructure and quantitative models used i
 ### About
 
 * Computer Science student at the University of Illinois
-* Focused on C++ systems programming and algorithmic performance
-* Interested in quantitative finance, market microstructure, and trading infrastructure
+* Focused on C++ systems programming and algorithm design
+* Interested in performance-oriented software, simulation, and quantitative finance
 * Background in competitive programming
 
 ---
@@ -27,9 +27,8 @@ Focus on efficient data structures and low-latency updates similar to real excha
 Custom memory allocator designed for fast allocations with minimal fragmentation.
 Explores memory pooling strategies commonly used in high-performance systems.
 
-**Monte Carlo Options Simulation (Python) — In Progress**
-Monte Carlo framework for pricing derivatives and exploring trading strategies.
-Includes statistical modeling, feature engineering, and simulation of trading signals.
+**Monte Carlo Simulation Framework (Python) — In Progress**
+Monte Carlo framework for modeling stochastic systems and evaluating strategies using statistical methods.
 
 ---
 
@@ -90,4 +89,3 @@ Email: [matts4@illinois.edu](mailto:matts4@illinois.edu)
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 </a>
 </p>
-
